@@ -11,15 +11,15 @@
 
 ---
 
-## <img src="https://raw.githubusercontent.com/AnuragByteCraft/genai-lab/main/assets/contact.gif" width="90" /> Where to Find Me <sup>![Let's Connect](https://img.shields.io/badge/Let%27s_Connect-blue?style=plastic&logo=github)</sup>
+## <img src="https://raw.githubusercontent.com/AnuragByteCraft/genai-lab/main/assets/contact1.gif" width="90" /> Where to Find Me <sup>![Let's Connect](https://img.shields.io/badge/Let%27s_Connect-blue?style=plastic&logo=github)</sup>
 
 <br>
 
-<a href="YOUR_LINKEDIN_LINK"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin" height="50"/></a>
-<a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Gmail-Contact-red?logo=gmail" height="50"/></a>
-<a href="YOUR_TOPMATE_LINK"><img src="https://img.shields.io/badge/TopMate-Book_Session-black" height="50"/></a>
-<a href="YOUR_MEDIUM_LINK"><img src="https://img.shields.io/badge/Medium-Read-black?logo=medium" height="50"/></a>
-<a href="YOUR_STACKOVERFLOW_LINK"><img src="https://img.shields.io/badge/Stack_Overflow-Profile-orange?logo=stackoverflow" height="50"/></a>
+<a href="https://www.linkedin.com/in/anigam-tech-lead/"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin" height="50"/></a>
+<a href="mailto:anigam1184@gmail.com"><img src="https://img.shields.io/badge/Gmail-Contact-red?logo=gmail" height="50"/></a>
+<a href="https://topmate.io/anurag_bytecraft"><img src="https://img.shields.io/badge/TopMate-Book_Session-black" height="50"/></a>
+<a href="https://medium.com/@anurag_bytecraft"><img src="https://img.shields.io/badge/Medium-Read-black?logo=medium" height="50"/></a>
+<a href="https://stackoverflow.com/users/32068973/anurag-nigam?tab=profile"><img src="https://img.shields.io/badge/Stack_Overflow-Profile-orange?logo=stackoverflow" height="50"/></a>
 
 ---
 

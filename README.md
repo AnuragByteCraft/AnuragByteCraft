@@ -23,7 +23,7 @@
 
 ---
 
-## <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" /> Engineering Identity
+## <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" /> Engineering Identity <sub>[The Way I Build]</sub> <img src="https://raw.githubusercontent.com/AnuragByteCraft/genai-lab/main/assets/About.gif" width="55" />
 
 <img src="https://raw.githubusercontent.com/AnuragByteCraft/genai-lab/main/assets/keypoint.gif" width="20" /> I am a GenAI-focused Engineering Architect with deep expertise in distributed systems, cloud-native platforms, and AI-driven media     technologies, with strong experience across the BFSI domain as well.
 
@@ -39,7 +39,7 @@
 
 <img src="https://raw.githubusercontent.com/AnuragByteCraft/genai-lab/main/assets/tech-stack.gif" width="90" align="left" />
 
-## What I Build With <sub>[Engineering | Platform Stack]</sub>
+## What I Build With <sub>[Engineering | Platform Stack]</sub> <img src="https://raw.githubusercontent.com/AnuragByteCraft/genai-lab/main/assets/Build.gif" width="120" />
 
 <br clear="left"/>
 
@@ -82,7 +82,7 @@
 <a href="https://aws.amazon.com/dynamodb/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dynamodb/dynamodb-original.svg" alt="dynamodb" width="40" height="40"/> </a> &nbsp;&nbsp;&nbsp;
 <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> &nbsp;&nbsp;&nbsp;
 <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a>
-</td>
+</td>  
 </tr>
 <tr style="background-color: #f6f8fa;">
 <td style="padding: 12px; vertical-align: middle;"><strong>🤖 AI/ML & GenAI Frameworks</strong></td>
@@ -134,6 +134,122 @@
 </td>
 </tr>
 </table>
+
+---
+
+<img src="https://raw.githubusercontent.com/AnuragByteCraft/genai-lab/main/assets/work1.gif" width="120" align="left" />
+
+## Ideas Brought to Life <sub>[High-Impact Work]</sub> <img src="https://raw.githubusercontent.com/AnuragByteCraft/genai-lab/main/assets/work.gif" width="55" />
+
+<br clear="left"/>
+
+<img src="https://raw.githubusercontent.com/AnuragByteCraft/genai-lab/main/assets/keypoint.gif" width="25" /> 🎬 **Upscale Service (GenAI):** Built a video super-resolution service to upscale legacy content to HD/4K using Python, PyTorch, NumPy, RealBasicVSR, and deep neural networks, enabling media houses like Warner Bros. and Paramount to modernize archived videos.
+
+<img src="https://raw.githubusercontent.com/AnuragByteCraft/genai-lab/main/assets/keypoint.gif" width="25" /> 🎥 **Video Background Removal:** Developed an image & video background removal service using Python, Computer Vision, RVB / FastMask models, contributed a patent-pending optimization, and improved accuracy and performance for production video workflows.
+
+<img src="https://raw.githubusercontent.com/AnuragByteCraft/genai-lab/main/assets/keypoint.gif" width="25" /> 📊 **Data Aggregation Platform:** Designed and built a financial data aggregation platform using Java, real-time data processing, Kafka, and AWS, scraping and normalizing data from multiple banks to provide users with single-view financial access.
+
+---
+
+<img src="https://raw.githubusercontent.com/AnuragByteCraft/genai-lab/main/assets/career.gif" width="130" align="left" />
+
+## Career in Commits <sub>[The Road So Far]</sub> <img src="https://raw.githubusercontent.com/AnuragByteCraft/genai-lab/main/assets/timelinewalk.gif" width="65" />
+
+<br clear="left"/>
+
+---
+
+<img src="https://raw.githubusercontent.com/AnuragByteCraft/genai-lab/main/assets/Winner.gif" width="120" align="left" />
+
+## Shiny Things I've Earned <sub>[Awards & Recognition]</sub> <img src="https://raw.githubusercontent.com/AnuragByteCraft/genai-lab/main/assets/Badge.gif" width="55" />
+
+<br clear="left"/>
+
+<p align="center">
+  <table align="center" cellpadding="10" cellspacing="0">
+    <tr>
+      <td align="center">
+        <img src="https://raw.githubusercontent.com/AnuragByteCraft/genai-lab/main/assets/Trophy.gif" width="150" />
+      </td>
+      <td align="center">
+        <img src="https://raw.githubusercontent.com/AnuragByteCraft/genai-lab/main/assets/Trophy.gif" width="150" />
+      </td>
+      <td align="center">
+        <img src="https://raw.githubusercontent.com/AnuragByteCraft/genai-lab/main/assets/Trophy.gif" width="150" />
+      </td>
+      <td align="center">
+        <img src="https://raw.githubusercontent.com/AnuragByteCraft/genai-lab/main/assets/Trophy.gif" width="150" />
+      </td>
+      <td align="center">
+        <img src="https://raw.githubusercontent.com/AnuragByteCraft/genai-lab/main/assets/Trophy.gif" width="150" />
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <img src="https://img.shields.io/badge/Innovation-Award-gold?style=flat-square"/>
+      </td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/MVP-Award-silver?style=flat-square"/>
+      </td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/Dream_Team-Award-orange?style=flat-square"/>
+      </td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/Spot-Award-blue?style=flat-square"/>
+      </td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/Excellence-Award-purple?style=flat-square"/>
+      </td>
+    </tr>
+  </table>
+</p>
+
+---
+
+<img src="https://raw.githubusercontent.com/AnuragByteCraft/genai-lab/main/assets/Book.gif" width="120" align="left" />
+
+## Education That Shaped Me <sub>[Learning & Credentials]</sub> <img src="https://raw.githubusercontent.com/AnuragByteCraft/genai-lab/main/assets/Graduation_Hat.gif" width="55" />
+
+<br clear="left"/>
+
+<p align="center">
+  <table align="center" cellpadding="10" cellspacing="0">
+    <tr>
+      <td align="center">
+        <img src="https://raw.githubusercontent.com/AnuragByteCraft/genai-lab/main/assets/Certificate.gif" width="150" />
+      </td>
+      <td align="center">
+        <img src="https://raw.githubusercontent.com/AnuragByteCraft/genai-lab/main/assets/Certificate.gif" width="150" />
+      </td>
+      <td align="center">
+        <img src="https://raw.githubusercontent.com/AnuragByteCraft/genai-lab/main/assets/Certificate.gif" width="150" />
+      </td>
+      <td align="center">
+        <img src="https://raw.githubusercontent.com/AnuragByteCraft/genai-lab/main/assets/Certificate.gif" width="150" />
+      </td>
+      <td align="center">
+        <img src="https://raw.githubusercontent.com/AnuragByteCraft/genai-lab/main/assets/Certificate.gif" width="150" />
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <img src="https://img.shields.io/badge/RGPV-CS_Engineering-orange?style=flat-square"/>
+      </td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/IIT_Guwahati-GenAI_&_ML-blue?style=flat-square"/>
+      </td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/IBM-GenAI_Professional-darkblue?style=flat-square"/>
+      </td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/Scaler-Software_Architecture-red?style=flat-square"/>
+      </td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/Envestnet-FTM-green?style=flat-square"/>
+      </td>
+    </tr>
+  </table>
+</p>
 
 ---
 

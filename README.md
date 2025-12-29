@@ -155,6 +155,11 @@
 
 ## Career in Commits <sub>[The Road So Far]</sub> <img src="https://raw.githubusercontent.com/AnuragByteCraft/genai-lab/main/assets/timelinewalk.gif" width="65" />
 
+<br>
+<br>
+
+![Career Timeline](https://raw.githubusercontent.com/AnuragByteCraft/genai-lab/main/assets/timeline.gif)
+
 <br clear="left"/>
 
 ---
